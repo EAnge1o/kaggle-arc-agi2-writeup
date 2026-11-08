@@ -1,5 +1,7 @@
-# ARC Prize 2026 (ARC-AGI-2) 参赛全记录：从零到 29.03 分的四天
+# Kaggle Competition: ARC Prize 2026 (ARC-AGI-2)
 
+> 官方比赛页面：[ARC Prize 2026 (ARC-AGI-2)](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)
+>
 > 一个四人小队都没有的业余选手，用 4 个晚上、 Kaggle 免费 GPU、和一个 fork 来的测试时训练方案，
 > 在 3575 支队伍里拿到 **29.03 分（第 1865 名）**。距铜牌线（32.22）差 7 道题。
 >
